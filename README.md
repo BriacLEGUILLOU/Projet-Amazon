@@ -4,7 +4,7 @@ This project aims to classify the commentaries POSITIVE, NEUTRAL of NEGATIVE fou
 
 
 ### Why
-I wanted to realize a classifier based on strings. Amazon provides a lot of data, I have chosen to realize a classifier with Scikit-Learn. One might think that a neural network maybe more adapted.
+I wanted to realize a classifier based on strings. Amazon provides a lot of data, I have chosen to realize a classifier with Scikit-Learn. One might think that a neural network may be more adapted.
 
 ### Input data
 The data can be loaded at the following link :
